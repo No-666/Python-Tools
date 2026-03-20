@@ -9,7 +9,7 @@ on:
       start_date:
         description: '开始日期 (YYYY-MM-DD)'
         required: true
-        default: '2026-03-20'
+        default: '2025-01-19'
       end_date:
         description: '2026-12-30'
         required: false
